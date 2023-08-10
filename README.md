@@ -13,10 +13,10 @@ Bongo is a user-friendly web application designed to revolutionize the way stude
 
 ### Snippets 
 From 
-![before](./timetable.jpg)
+![before](timetable.jpg)
 
 To 
-![after](./bongotable.jpg)
+![after](bongotable.jpg)
 
 ## How to Use Bongo
 https://bongosupport-001-site1.atempurl.com/ 

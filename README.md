@@ -12,10 +12,12 @@ Bongo is a user-friendly web application designed to revolutionize the way stude
 - *Conflict Resolution*: Dealing with timetable clashes amd groupings can be frustrating. Bongo comes to the rescue by identifying any overlapping classes and offering solutions to resolve conflicts. No more last-minute scrambles to rearrange schedules!
 
 ### Snippets 
-From 
+From:
+
 ![before](timetable.png)
 
-To 
+To: 
+
 ![after](bongotable.png)
 
 ## How to Use Bongo

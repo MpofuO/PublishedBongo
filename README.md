@@ -37,7 +37,7 @@ Test timetable:  https://drive.google.com/file/d/190MB_jz6igXHq8skYzetbV4xm0v7_j
 
 ## Collaboration
 
-Bongo was not developed by a single individual, but through the collaborative efforts of two talented programmers, *Ditlou Tumelo(me)* and *Oliver Mpofu*. Our combined skills and dedication have resulted in the creation of this exceptional web application.
+Bongo was not developed by a single individual, but through the collaborative efforts of two talented programmers, *Oliver Mpofu(me)* and *Ditlou Tumelo*. Our combined skills and dedication have resulted in the creation of this exceptional web application.
 
 ### Meet the Team
 
